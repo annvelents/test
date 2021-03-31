@@ -1,0 +1,3 @@
+[submodule ".github/pronto/rubocop"]
+	path = .github/pronto/rubocop
+	url = git@github.com:rubyroidlabs/rubocop.git
